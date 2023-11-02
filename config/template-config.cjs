@@ -5,7 +5,8 @@ const TEMPLATE_CONFIG = [
     title: '亲爱的管熙汶, 早上好',
     desc: `
       **现在是{{date.DATA}}**
-      距离考研还有{{kaoyan_day.DATA}}天
+      距离考研还有
+      {{marry_day.DATA}}天!
       ---
       
       {{city.DATA}}
@@ -23,7 +24,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       {{birthday_message.DATA}}
-      {{marry_day.DATA}}
+
       ---
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
