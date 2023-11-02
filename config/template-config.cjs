@@ -5,9 +5,9 @@ const TEMPLATE_CONFIG = [
     title: '亲爱的管熙汶, 早上好',
     desc: `
       **现在是{{date.DATA}}**
+      ---
       距离考研还有
       {{marry_day.DATA}}天!
-      ---
       
       {{city.DATA}}
       
