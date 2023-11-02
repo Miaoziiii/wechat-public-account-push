@@ -6,8 +6,6 @@ const TEMPLATE_CONFIG = [
     desc: `
       **现在是{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}
-      
       ---
       
       {{city.DATA}}
@@ -27,9 +25,6 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      
-      {{moment_copyrighting.DATA}}
-      
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
   },
