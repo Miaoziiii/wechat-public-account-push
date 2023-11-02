@@ -35,6 +35,12 @@ const USER_CONFIG = {
         },
         
       ],
+
+      customizedDateList: [
+        
+        // 考研时间
+        { keyword: 'kaoyan_day', date: '2023-12-24' },
+      ],
       
     },
   ],
