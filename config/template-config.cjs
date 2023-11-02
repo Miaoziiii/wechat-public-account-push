@@ -23,7 +23,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       {{birthday_message.DATA}}
-      
+      {{dateList.DATA}}
       ---
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
