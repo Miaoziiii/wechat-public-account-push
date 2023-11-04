@@ -9,6 +9,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       距离考研还有{{marry_day.DATA}}天!
+      --
       
       ---
       
