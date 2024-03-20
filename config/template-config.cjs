@@ -5,7 +5,10 @@ const TEMPLATE_CONFIG = [
     title: '亲爱的管熙汶, 早上好呀~',
     desc: `
       **现在是{{date.DATA}}**
-      
+      ---
+      {{holidaytts.DATA}}
+
+      要记着吃早餐！！！
       ---
       
       {{city.DATA}}
